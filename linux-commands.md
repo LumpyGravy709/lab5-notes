@@ -6,3 +6,4 @@ cd Documents - change directory using a relative path
 two new commands
 rm file.txt - delete/remove a file
 rm -r folder_name = delete a directory and everything inside it, recursively 
+I am editing this file for part 5 as well
